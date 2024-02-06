@@ -13,8 +13,8 @@ A sole proprietorship is a business owned by a single person who is responsible 
 - No employee benefits for owner
 - High demands on owner
 
->[!example]+
-John owns a small barbershop. The shop is owned by one person who manages it all and makes sure it runs smoothly. When they make a [[B.M.E/Glossary#Profit|profit]] he keeps it all, but if they get fined he has to pay it. His work hours are very flexible, as he has no boss to report to, but he has to show up if something happens, even if he doesn't want to. When his [[B.M.E/Glossary#Tax|tax]] return comes, all of the money made is reported as personal income
+> [!example]+
+> John owns a small barbershop. The shop is owned by one person who manages it all and makes sure it runs smoothly. When they make a [[B.M.E/Glossary#Profit|profit]] he keeps it all, but if they get fined he has to pay it. His work hours are very flexible, as he has no boss to report to, but he has to show up if something happens, even if he doesn't want to. When his [[B.M.E/Glossary#Tax|tax]] return comes, all of the money made is reported as personal income
 ## Partnership
 A partnership is similar to a sole proprietorship, but with multiple people managing it. They have to make decisions together, and will have terms they all agreed on when the business started
 
