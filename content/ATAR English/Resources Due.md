@@ -1,0 +1,2 @@
+- Discussion 1 - 9/2/24
+- Discussion 2 - 9/2/24
