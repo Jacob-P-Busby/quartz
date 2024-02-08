@@ -7,4 +7,4 @@ A pay rate is a smaller chunk of a salary for a smaller period of time. These ar
 A pay rate is calculated as $\frac {S}{P}$ where S = Annual salary and P = number of periods in a year
 
 >[!example]+
->John works a full time office job and earns \$104,000 a year. His fortnightly pay rate would be $\frac{104000}{26} = 4000$ dollars
+>John works a full time office job and earns \$104,000 a year. His fortnightly pay rate would be $\$\frac{104000}{26}$, or $4000

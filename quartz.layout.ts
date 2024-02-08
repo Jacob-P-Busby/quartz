@@ -50,8 +50,11 @@ export const defaultListPageLayout: PageLayout = {
 
 Component.Explorer({
   filterFn: (node) => {
-    const omit = new Set(["index"])
-    return !omit.has(node.name)
+    if (node.name == "info" || node.name == "index") {
+      return false
+    }
+
+    return true
   }
 })
 
